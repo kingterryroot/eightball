@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://brewminate.com/wp-content/uploads/2018/12/122518-40-History-Philosophy-Plato-Community-1024x768.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Jacob Riley;
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+#balltext{
+    color: beige;
+}
